@@ -10,9 +10,10 @@ Get the **Boolean** variable stored with the matching _identifier_ in the matchi
 
 Inputs:
 
-* Identifier
-* Scope
-* Object
+* Identifier<span style="color:red">*</span> (variable, fillable)
+* Scope<span style="color:red">*</span> (fillable)
+* Object (variable)
+  * Only required if _Scope_ is set to Object.
 
 Outputs:
 
