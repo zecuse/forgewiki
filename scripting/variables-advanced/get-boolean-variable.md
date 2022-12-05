@@ -18,3 +18,9 @@ Inputs:
 Outputs:
 
 * Value
+
+## See Also
+
+[Declare Boolean Variable](declare-boolean-variable.md)
+
+[Set Boolean Variable](set-boolean-variable.md)
